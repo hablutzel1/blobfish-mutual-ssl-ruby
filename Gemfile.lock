@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    blobfish-mutual-ssl-ruby (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  blobfish-mutual-ssl-ruby!
+  bundler (~> 1.16)
+
+BUNDLED WITH
+   1.16.2
